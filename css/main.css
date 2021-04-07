@@ -12,6 +12,10 @@ img {
   width: 100%;
 }
 
+body {
+  margin: 0;
+}
+
 main {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
