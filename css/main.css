@@ -16,9 +16,9 @@ main {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-areas:
-  "banner banner banner"
+        "banner banner banner"
         "col1 col2 col3";
-        gap: .75rem;
+    gap: .75rem;
 }
 
 .img-banner {
