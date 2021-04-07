@@ -38,11 +38,11 @@ main {
 }
 
 header {
-  padding: 1.5rem 1rem;
+  padding: 1rem;
 }
 
 h1 {
-  font-weight: normal;
+  font-weight: lighter;
   font-style: italic;
   font-size: 1.8rem;
   margin: 0;
@@ -63,7 +63,7 @@ figure {
   margin: 0;
 }
 
-figure h1 {
+figure h2 {
   margin-bottom: 0;
 }
 
